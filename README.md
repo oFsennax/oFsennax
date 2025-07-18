@@ -48,6 +48,8 @@
   </a>
 </div>
 
+### 📊 Estatísticas
+
 <p>
   <img 
     align="left" 
