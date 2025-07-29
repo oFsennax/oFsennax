@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">Olá, sou formado tecnicamente em Redes de Computadores e Informática. Atualmente, estou cursando Bacharelado em Engenharia de Software, com o objetivo de fazer uma transição de carreira para o desenvolvimento de software.<br><br>Estou me especializando para atuar como desenvolvedor full stack, buscando unir minha experiência em infraestrutura de TI com a criação de soluções completas e eficientes.<br><br>🚀 Interesses:<br>Desenvolvimento Web (Frontend e Backend)<br>APIs RESTful<br>Projetos com HTML5, CSS3, JavaScript, Node.js, React e PHP<br>Versionamento com Git e GitHub<br>Hospedagem com Vercel<br>Cloud<br>Observabilidade e monitoramento<br><br>📚 Sempre aprendendo:<br>Atualmente, estou aprofundando meus estudos em estruturas de dados, algoritmos e boas práticas de desenvolvimento.</p>
+<p align="left">👋 Olá! Sou formado em Redes de Computadores e Informática, atualmente cursando Bacharelado em Engenharia de Software.<br>
+ *Em transição de carreira para o desenvolvimento de software, tenho me especializado como desenvolvedor full stack, unindo minha bagagem em infraestrutura de TI à construção de aplicações web modernas e eficientes.
+ 
+Aqui no GitHub, compartilho projetos desenvolvidos com tecnologias como HTML5, CSS3, JavaScript, Node.js, React, entre outras. Sinta-se à vontade para explorar e contribuir!<br><br>🚀 Interesses:<br>Desenvolvimento Web (Frontend e Backend)<br>APIs RESTful<br>Projetos com HTML5, CSS3, JavaScript, Node.js, React e PHP<br>Versionamento com Git e GitHub<br>Hospedagem com Vercel<br>Cloud<br>Observabilidade e monitoramento<br><br>📚 Sempre aprendendo:<br>Atualmente, estou aprofundando meus estudos em estruturas de dados, algoritmos e boas práticas de desenvolvimento.</p>
 
 ### ⚙️​ Linguagens e Tecnologias
 
