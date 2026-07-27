@@ -50,3 +50,14 @@ Aqui no GitHub, compartilho projetos desenvolvidos com tecnologias como HTML5, C
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/ofsennax/ofsennax/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  
+  <br><br>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ofsennax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofsennax&layout=compact&theme=dracula&hide_border=true"/>
+</div>
